@@ -13,6 +13,7 @@ public class HelloWorld {
         System.out.println("Hello world!");
         System.out.println("This is a practice submission for the week 2 lab.");
         System.out.println("Bye :)");
+        System.out.println("-K");
         System.out.println("");
     }
 }
